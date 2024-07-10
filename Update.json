@@ -1,8 +1,8 @@
 {
-  "Latest_APK_Version_Name": "1.0.14",
-  "Latest_APK_Version_Code": "14",
+  "Latest_APK_Version_Name": "1.0.15",
+  "Latest_APK_Version_Code": "15",
   "APK_File_URL": "",
-  "Whats_new_on_latest_APK": "Novedades en la versión 1.0.14:\n- Solución de problemas en Android 5.x a 7.x\n- Algunas soluciones.",
+  "Whats_new_on_latest_APK": "Novedades en la versión 1.0.15:\n- Compatibilidad con Android 14\n- Agregadado los géneros a la pantalla principal\n- Mejoras de contenido\n- Solución de algunos errores",
   "Update_Skipable": 0,
   "Update_Type": 0
 }
