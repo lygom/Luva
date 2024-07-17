@@ -1,8 +1,8 @@
 {
-  "Latest_APK_Version_Name": "1.0.16",
-  "Latest_APK_Version_Code": "16",
+  "Latest_APK_Version_Name": "1.0.17",
+  "Latest_APK_Version_Code": "17",
   "APK_File_URL": "",
-  "Whats_new_on_latest_APK": "Novedades en la versión 1.0.16:\n- Compatibilidad con Android 14\n- Agregadado los géneros a la pantalla principal\n- Mejoras de contenido\n- Se elimino Android 5.x\n- Solución de algunos errores",
-  "Update_Skipable": 1,
+  "Whats_new_on_latest_APK": "Novedades en la versión 1.0.17:\n- \n- Mejoras de rendimiento\n- Solución de errores en db",
+  "Update_Skipable": 0,
   "Update_Type": 0
 }
